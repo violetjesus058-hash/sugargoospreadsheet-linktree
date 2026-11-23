@@ -1,83 +1,77 @@
 ---
-title: BBDBuy Spreadsheet – Browse BBDBuy Finds by Category
+title: Sugargoo Spreadsheet Quick Links – Independent Directory
 ---
 
-<div class="bbdbuy-page">
-<section class="reference-hero">
-<p class="hero-count">BBDBUY SPREADSHEET</p>
-<h1>Explore BBDBuy<br><span>Finds by Category</span></h1>
-<p class="hero-subtitle">A STRUCTURED DIRECTORY FOR BBDBUY DATA</p>
-<p class="hero-copy">Browse available BBDBuy data by category, then open a filtered view to review listings and brands.</p>
+<div class="link-directory-page">
+<section class="directory-hero">
+<p class="eyebrow">SUGARGOO SPREADSHEET · QUICK LINKS</p>
+<h1>One place for<br><span>the main links</span></h1>
+<p class="hero-copy">A compact independent directory for opening Sugargoo Spreadsheet categories, brands, all finds, and the budget guide.</p>
+<div class="hero-status"><span><i aria-hidden="true"></i> Navigation directory</span><span>Third-party destinations</span></div>
 </section>
 
-<section class="button-section">
-<p class="section-label">CATEGORY DIRECTORY</p>
-<h2>Browse BBDBuy Finds by Category</h2>
-<p class="section-intro">Select a category below to open the filtered external data view.</p>
-<div class="category-list">
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy"><span>01</span>Clothing <small>Explore apparel and casual wear across available brands.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=BBDBuy"><span>02</span>Shoes <small>Browse athletic sneakers, everyday footwear, and seasonal styles.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=BBDBuy"><span>03</span>Pants <small>Find jeans, cargo trousers, sweatpants, and casual bottoms.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=BBDBuy"><span>04</span>Accessories <small>Discover everyday essentials and lifestyle add-ons.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=BBDBuy"><span>05</span>Bags <small>Navigate backpacks, crossbody bags, totes, and carriers.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=BBDBuy"><span>06</span>Watches <small>View timepiece entries compiled from available records.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=BBDBuy"><span>07</span>Lego <small>Check building sets and collectible brick models.</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=BBDBuy"><span>08</span>Long Sleeve <small>Browse long-sleeve shirts and layering tops.</small><b>↗</b></a>
+<section class="link-section primary-links" aria-labelledby="primary-links-title">
+<p class="section-label">PRIMARY LINKS</p>
+<h2 id="primary-links-title">Choose a destination</h2>
+<div class="link-stack">
+<a class="directory-link featured-link" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo"><span class="link-icon">01</span><span><strong>Open All Products</strong><small>Go to the complete external data view</small></span><b>↗</b></a>
+<a class="directory-link" href="https://sugargoospreadsheet-budget.com/"><span class="link-icon">02</span><span><strong>Budget Spreadsheet Site</strong><small>Open the separate budget-focused site</small></span><b>↗</b></a>
+<a class="directory-link" href="#how-to-use"><span class="link-icon">03</span><span><strong>How to Use Guide</strong><small>Read the short navigation steps below</small></span><b>↓</b></a>
 </div>
 </section>
 
-<section class="content-section">
-<p class="section-label">ABOUT THE DIRECTORY</p>
-<h2>What is BBDBuy Spreadsheet?</h2>
-<p>BBDBuy Spreadsheet functions as an independent discovery and categorization gateway for online shoppers researching BBDBuy listings. We organize available product records into clear sections so you can start your search by broad product category and narrow down your options by specific brand. Because catalog entries, listed prices, and item availability can change across external sources, the figures referenced on this site reflect currently listed data rather than permanent inventory. When you click through to view individual style records, please verify all product specifications, pricing, and availability directly on the external destination page.</p>
-</section>
-
-<section class="content-section steps-section">
-<p class="section-label">A SIMPLE WORKFLOW</p>
-<h2>How to use this site</h2>
-<div class="steps-list">
-<div class="step-item"><span>01</span><div><h3>Choose a category</h3><p>Browse the eight core product sections below and select the item group that best matches what you are looking for.</p></div></div>
-<div class="step-item"><span>02</span><div><h3>Review the available listings</h3><p>Use the external directory view to scan style entries, review listed price points, and filter results by individual brand names.</p></div></div>
-<div class="step-item"><span>03</span><div><h3>Open the external BBDBuy data view</h3><p>Click a category button to launch the corresponding BBDBuy data page and examine detailed item records directly.</p></div></div>
+<section class="link-section" aria-labelledby="categories-title">
+<p class="section-label">CATEGORIES</p>
+<h2 id="categories-title">Open a category</h2>
+<div class="category-grid">
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Sugargoo"><strong>Clothing</strong><small>Apparel data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Sugargoo"><strong>Shoes</strong><small>Footwear data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Sugargoo"><strong>Pants</strong><small>Bottoms data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Sugargoo"><strong>Accessories</strong><small>Accessory data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=Sugargoo"><strong>Bags</strong><small>Bag data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=Sugargoo"><strong>Watches</strong><small>Watch data</small><b>↗</b></a>
 </div>
 </section>
 
-<section id="featured-brands" class="brands-section">
-<p class="section-label">FEATURED BRANDS</p>
-<h2>Browse by brand</h2>
-<p class="section-intro">Open a brand-filtered BBDBuy view using the available product data.</p>
+<section id="brand-directory" class="link-section" aria-labelledby="brands-title">
+<p class="section-label">BRAND DIRECTORY</p>
+<h2 id="brands-title">Open a brand shortcut</h2>
+<p class="section-intro">Brand buttons are navigation labels only. They do not imply official authorization, authenticity, endorsement, or a product guarantee.</p>
 <div class="brand-list">
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Nike">Nike</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=adidas">adidas</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=AMIRI">AMIRI</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Burberry">Burberry</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Polo+Ralph+Lauren">Polo Ralph Lauren</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Corteiz">Corteiz</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Dior">Dior</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Louis+Vuitton">Louis Vuitton</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Jordan">Jordan</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Chrome+Hearts">Chrome Hearts</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Gucci">Gucci</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Moncler">Moncler</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Stone+Island">Stone Island</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Prada">Prada</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Palm+Angels">Palm Angels</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Balenciaga">Balenciaga</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Rolex">Rolex</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Off-White">Off-White</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=A+Bathing+Ape">A Bathing Ape</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Vivienne+Westwood">Vivienne Westwood</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Nike">Nike</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=adidas">adidas</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Jordan">Jordan</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=AMIRI">AMIRI</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Burberry">Burberry</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Gucci">Gucci</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Prada">Prada</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Moncler">Moncler</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Stone+Island">Stone Island</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Off-White">Off-White</a>
 </div>
 </section>
 
-<section class="content-section transparency-section">
-<p class="section-label">TRANSPARENCY</p>
-<h2>Transparency &amp; data disclaimer</h2>
-<p>BBDBuy Spreadsheet operates strictly as an independent informational directory and navigation tool. We do not sell merchandise, process orders, or manage inventory, nor do we own or control the external data pages linked from this website. Product details, listed prices, and stock availability on external BBDBuy views are subject to change without notice. Users are responsible for independently verifying all product details and terms on the destination page before making any decisions.</p>
+<section id="how-to-use" class="link-section steps-section" aria-labelledby="how-to-use-title">
+<p class="section-label">QUICK GUIDE</p>
+<h2 id="how-to-use-title">How to use this directory</h2>
+<div class="steps-list">
+<div class="step"><span>01</span><p>Choose one category, brand shortcut, or the complete data view.</p></div>
+<div class="step"><span>02</span><p>Review current item records, sizes, prices, availability, and policies on the destination page.</p></div>
+<div class="step"><span>03</span><p>Complete any sign-in, purchase, payment, shipping, or support request only on the linked third-party destination.</p></div>
+</div>
 </section>
 
-<section class="bbdbuy-note">
-<img src="/bbdbuy-logo.png" alt="BBDBuy Spreadsheet logo" />
-<p>BBDBuy Spreadsheet is an independent discovery index. External data belongs to its respective destination pages.</p>
+<section id="contact-updates" class="link-section updates-section" aria-labelledby="updates-title">
+<p class="section-label">CONTACT / UPDATES</p>
+<h2 id="updates-title">Updates and link reports</h2>
+<p class="section-intro">For a future verified contact or update channel, use this section as the single replacement point. Until a real channel is confirmed, report broken links through the destination platform rather than using an unverified address.</p>
+<span class="pending-note">Update channel to be confirmed before publishing</span>
 </section>
+
+<section class="disclosure">
+<p><strong>Independent directory.</strong> This page is not operated by Sugargoo or Linktree. “Linktree” is only part of this domain name; this site does not use Linktree branding, logos, colors, interface, or official-affiliation claims.</p>
+<p>We do not sell physical products or handle payment, orders, warehousing, shipping, refunds, or after-sales support. Linked destinations control their own data, prices, images, availability, and policies. Commercial links, if used, must be disclosed and marked with <code>rel="sponsored"</code>.</p>
+</section>
+
+<footer class="directory-footer"><span>Sugargoo Spreadsheet Link Directory</span><span>Independent navigation only</span></footer>
 </div>

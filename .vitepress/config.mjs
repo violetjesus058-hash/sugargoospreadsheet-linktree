@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-const hostname = 'https://bbdbuyspreadsheets.com'
-const siteTitle = 'Bbdbuy Spreadsheet'
-const siteDescription = 'Explore BBDBuy Finds with BBDBuy Spreadsheet. Browse listed products across categories and brands, then open the external BBDBuy data views.'
+const hostname = 'https://sugargoospreadsheet-linktree.com'
+const siteTitle = 'Sugargoo Spreadsheet Quick Links'
+const siteDescription = 'A compact independent directory for Sugargoo Spreadsheet categories, brands, all products, and the budget guide.'
 
 export default defineConfig({
   title: siteTitle,
@@ -11,73 +11,39 @@ export default defineConfig({
   cleanUrls: 'with-subfolders',
 
   head: [
-    // Google tag (gtag.js) — site-wide Google Analytics property supplied by the site owner
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-0P1YGBJDVL' }],
-    ['script', {}, `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-0P1YGBJDVL');
-    `],
+    ['meta', { name: 'robots', content: 'noindex,follow' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: siteTitle }],
     ['meta', { property: 'og:description', content: siteDescription }],
-    ['meta', { property: 'og:image', content: '/bbdbuy-logo.png' }],
-    // Google Analytics events for spreadsheet and shopping links
+    ['meta', { property: 'og:url', content: hostname }],
+    ['meta', { property: 'og:image', content: `${hostname}/favicon.png` }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:title', content: siteTitle }],
+    ['meta', { name: 'twitter:description', content: siteDescription }],
     ['script', {}, `
       (function() {
-        function sendTracking(eventName) {
-          if (typeof window.gtag === 'function') {
-            window.gtag('event', eventName, {
-              'event_category': 'button_click',
-              'event_label': eventName,
-              'value': 1.0
-            });
-          }
+        function track() {
+          if (typeof window.gtag === 'function') window.gtag('event', 'directory_link_click', { event_category: 'navigation' });
         }
-        function bindTracking() {
-          document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"], a[href*="productsite-8wf.pages.dev"]').forEach(function(el) {
-            if (!el.dataset.tracked) {
-              el.dataset.tracked = '1';
-              el.addEventListener('click', function() {
-                var name = el.classList.contains('cta-spreadsheet') ? 'spreadsheet_button_click' : 'spreadsheet_link_click';
-                sendTracking(name);
-              });
-            }
-          });
-          document.querySelectorAll('a.cta-shopping, .shopping-btn, a[href*="repsootd.com"]').forEach(function(el) {
-            if (!el.dataset.tracked) {
-              el.dataset.tracked = '1';
-              el.addEventListener('click', function() {
-                sendTracking('shopping_button_click');
-              });
-            }
-          });
-        }
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', bindTracking);
-        } else {
-          bindTracking();
-        }
-        var observer = new MutationObserver(function() { bindTracking(); });
-        observer.observe(document.body, { childList: true, subtree: true });
+        document.addEventListener('click', function(event) {
+          var link = event.target.closest && event.target.closest('a[href^="http"]');
+          if (link) track();
+        });
       })();
     `],
   ],
 
   themeConfig: {
-    logo: '/bbdbuy-logo.png',
+    logo: '/favicon.png',
     siteTitle,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy' },
-      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=BBDBuy' },
-      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=BBDBuy' },
-      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=BBDBuy' },
-      { text: 'Brands', link: '/#featured-brands' },
-      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy' },
+      { text: 'Categories', link: '/#categories-title' },
+      { text: 'Brands', link: '/#brand-directory' },
+      { text: 'All Products', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo' },
+      { text: 'Budget Site', link: 'https://sugargoospreadsheet-budget.com/' },
     ],
     sidebar: false,
     outline: false,

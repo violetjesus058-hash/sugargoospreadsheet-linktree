@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bbdbuyspreadsheets.com/sitemap.xml
+Sitemap: https://sugargoospreadsheet-linktree.com/sitemap.xml

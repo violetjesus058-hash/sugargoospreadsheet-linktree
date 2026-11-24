@@ -11,6 +11,12 @@ export default defineConfig({
   cleanUrls: 'with-subfolders',
 
   head: [
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtm.js?id=GTM-K5FMNTNC' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    `],
     ['meta', { name: 'robots', content: 'noindex,follow' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],

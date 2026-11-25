@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 const hostname = 'https://sugargoospreadsheet-linktree.com'
-const siteTitle = 'Sugargoo Spreadsheet Quick Links'
-const siteDescription = 'A compact independent directory for Sugargoo Spreadsheet categories, brands, all products, and the budget guide.'
+const siteTitle = 'Sugargoo Spreadsheet 2026: Quick Links, Categories, Brands & All Finds'
+const siteDescription = 'Use the Sugargoo Spreadsheet 2026 quick link hub for category directories, brand links, All Finds, QC notes, shipping guides, and the independent budget site.'
 
 export default defineConfig({
   title: siteTitle,

@@ -51,6 +51,7 @@ export default defineConfig({
       { text: 'Brands', link: '/#brand-directory' },
       { text: 'All Products', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo' },
       { text: 'Budget Site', link: 'https://sugargoospreadsheet-budget.com/' },
+      { text: 'Privacy Policy', link: '/privacy-policy/' },
     ],
     sidebar: false,
     outline: false,

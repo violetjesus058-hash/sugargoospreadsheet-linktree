@@ -69,5 +69,5 @@ title: "Sugargoo Spreadsheet 2026: Quick Links, Categories, Brands & All Finds"
 <p>We do not sell physical products or handle payment, orders, warehousing, shipping, refunds, or after-sales support. Linked destinations control their own data, prices, images, availability, and policies. Commercial links, if used, must be disclosed and marked with <code>rel="sponsored"</code>.</p>
 </section>
 
-<footer class="directory-footer"><span>Sugargoo Spreadsheet 2026 Link Hub</span><span>Independent navigation only</span></footer>
+<footer class="directory-footer"><span>Sugargoo Spreadsheet 2026 Link Hub</span><span>Independent navigation only</span><a href="/privacy-policy/" aria-label="Sugargoo Spreadsheet Link Hub Privacy Policy" title="Sugargoo Spreadsheet Link Hub Privacy Policy">Privacy Policy</a></footer>
 </div>

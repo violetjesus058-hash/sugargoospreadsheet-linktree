@@ -3,33 +3,36 @@ title: "Sugargoo Spreadsheet 2026: Quick Links, Categories, Brands & All Finds"
 ---
 
 <div class="link-directory-page">
-<section class="directory-hero">
-<p class="eyebrow">SUGARGOO SPREADSHEET · 2026 LINK HUB · QUICK NAVIGATION</p>
+<section class="profile-hero" aria-label="Sugargoo Spreadsheet link hub profile">
+<img class="profile-avatar" src="/favicon.png" alt="Sugargoo Spreadsheet Link Hub logo" />
+<p class="profile-handle">@sugargoospreadsheet</p>
 <h1>Sugargoo Spreadsheet 2026:<br><span>Quick Links &amp; All Finds</span></h1>
-<p class="hero-copy">A compact independent Sugargoo Spreadsheet link hub for categories, brands, All Finds, QC and shipping notes, and the separate budget guide. Choose a shortcut below instead of searching through a long page.</p>
+<p class="hero-copy">Independent quick navigation for Sugargoo Spreadsheet categories, brands, All Finds, budget finds, QC notes, and shipping guides.</p>
 <div class="hero-status"><span><i aria-hidden="true"></i> Navigation directory</span><span>Third-party destinations</span></div>
 </section>
 
 <section class="link-section primary-links" aria-labelledby="primary-links-title">
-<p class="section-label">PRIMARY LINKS</p>
-<h2 id="primary-links-title">Choose a Sugargoo Spreadsheet shortcut</h2>
+<p class="section-label">START HERE</p>
+<h2 id="primary-links-title">Sugargoo Spreadsheet quick links</h2>
 <div class="link-stack">
-<a class="directory-link featured-link" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo" aria-label="Sugargoo Spreadsheet All Finds and complete product data links" title="Sugargoo Spreadsheet All Finds and complete product data links"><span class="link-icon">01</span><span><strong>Open All Finds</strong><small>Go to the complete Sugargoo Spreadsheet data view</small></span><b>↗</b></a>
-<a class="directory-link" href="https://sugargoospreadsheet-budget.com/" aria-label="Sugargoo Spreadsheet budget finds and shopping guide links" title="Sugargoo Spreadsheet budget finds and shopping guide links"><span class="link-icon">02</span><span><strong>Budget Finds &amp; Guides</strong><small>Open the separate Sugargoo budget spreadsheet site</small></span><b>↗</b></a>
-<a class="directory-link" href="#how-to-use" aria-label="Sugargoo Spreadsheet QC, shipping, and order guide links" title="Sugargoo Spreadsheet QC, shipping, and order guide links"><span class="link-icon">03</span><span><strong>QC, Shipping &amp; Order Guide</strong><small>Read the short navigation steps below</small></span><b>↓</b></a>
+<a class="directory-link featured-link" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet All Finds and complete product data links" title="Sugargoo Spreadsheet All Finds and complete product data links"><span class="link-icon">01</span><span><strong>Open All Finds</strong><small>Complete external Sugargoo Spreadsheet data view</small></span><b>↗</b></a>
+<a class="directory-link" href="https://sugargoospreadsheet-budget.com/" aria-label="Sugargoo Spreadsheet budget finds and shopping guide links" title="Sugargoo Spreadsheet budget finds and shopping guide links"><span class="link-icon">02</span><span><strong>Budget Finds &amp; Guides</strong><small>Budget filters, price shortcuts, and shopping notes</small></span><b>↗</b></a>
+<a class="directory-link" href="#categories-title" aria-label="Sugargoo Spreadsheet category directory links" title="Sugargoo Spreadsheet category directory links"><span class="link-icon">03</span><span><strong>Category Directory</strong><small>Clothing, sneakers, pants, bags, and accessories</small></span><b>↓</b></a>
+<a class="directory-link" href="#brand-directory" aria-label="Sugargoo Spreadsheet brand directory links" title="Sugargoo Spreadsheet brand directory links"><span class="link-icon">04</span><span><strong>Brand Directory</strong><small>Nike, adidas, Jordan, Gucci, Prada, and more</small></span><b>↓</b></a>
+<a class="directory-link" href="#how-to-use" aria-label="Sugargoo Spreadsheet QC, shipping, and order guide links" title="Sugargoo Spreadsheet QC, shipping, and order guide links"><span class="link-icon">05</span><span><strong>QC, Shipping &amp; Order Guide</strong><small>Short steps for checking linked destination records</small></span><b>↓</b></a>
 </div>
 </section>
 
 <section class="link-section" aria-labelledby="categories-title">
 <p class="section-label">CATEGORY QUICK LINKS</p>
-<h2 id="categories-title">Sugargoo Spreadsheet categories</h2>
+<h2 id="categories-title">Browse Sugargoo Spreadsheet categories</h2>
 <div class="category-grid">
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Sugargoo" aria-label="Sugargoo Spreadsheet clothing category links" title="Sugargoo Spreadsheet clothing category links"><strong>Clothing</strong><small>Apparel data</small><b>↗</b></a>
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Sugargoo" aria-label="Sugargoo Spreadsheet shoes and sneakers category links" title="Sugargoo Spreadsheet shoes and sneakers category links"><strong>Shoes</strong><small>Footwear data</small><b>↗</b></a>
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Sugargoo" aria-label="Sugargoo Spreadsheet pants and bottoms category links" title="Sugargoo Spreadsheet pants and bottoms category links"><strong>Pants</strong><small>Bottoms data</small><b>↗</b></a>
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Sugargoo" aria-label="Sugargoo Spreadsheet accessories category links" title="Sugargoo Spreadsheet accessories category links"><strong>Accessories</strong><small>Accessory data</small><b>↗</b></a>
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=Sugargoo" aria-label="Sugargoo Spreadsheet bags and backpacks category links" title="Sugargoo Spreadsheet bags and backpacks category links"><strong>Bags</strong><small>Bag data</small><b>↗</b></a>
-<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=Sugargoo" aria-label="Sugargoo Spreadsheet watches category links" title="Sugargoo Spreadsheet watches category links"><strong>Watches</strong><small>Watch data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=clothing&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet clothing category links" title="Sugargoo Spreadsheet clothing category links"><strong>Clothing</strong><small>Hoodies, tees, and apparel data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=shoe&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet shoes and sneakers category links" title="Sugargoo Spreadsheet shoes and sneakers category links"><strong>Shoes &amp; Sneakers</strong><small>Footwear and QC link shortcuts</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=pants&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet pants and bottoms category links" title="Sugargoo Spreadsheet pants and bottoms category links"><strong>Pants &amp; Shorts</strong><small>Bottoms and fit-related records</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=ACC&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet accessories category links" title="Sugargoo Spreadsheet accessories category links"><strong>Accessories</strong><small>Caps, hats, and accessory data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=bags&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet bags and backpacks category links" title="Sugargoo Spreadsheet bags and backpacks category links"><strong>Bags &amp; Backpacks</strong><small>Bag and carry-item data</small><b>↗</b></a>
+<a class="category-card" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=watches&amp;platform=Sugargoo" aria-label="Sugargoo Spreadsheet watches category links" title="Sugargoo Spreadsheet watches category links"><strong>Watches</strong><small>Watch and accessory data</small><b>↗</b></a>
 </div>
 </section>
 
@@ -38,16 +41,16 @@ title: "Sugargoo Spreadsheet 2026: Quick Links, Categories, Brands & All Finds"
 <h2 id="brands-title">Sugargoo Spreadsheet brands</h2>
 <p class="section-intro">Brand buttons are navigation labels only. They do not imply official authorization, authenticity, endorsement, or a product guarantee.</p>
 <div class="brand-list">
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Nike" aria-label="Sugargoo Spreadsheet Nike quick link" title="Sugargoo Spreadsheet Nike quick link">Nike</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=adidas" aria-label="Sugargoo Spreadsheet adidas quick link" title="Sugargoo Spreadsheet adidas quick link">adidas</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Jordan" aria-label="Sugargoo Spreadsheet Jordan quick link" title="Sugargoo Spreadsheet Jordan quick link">Jordan</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=AMIRI" aria-label="Sugargoo Spreadsheet AMIRI quick link" title="Sugargoo Spreadsheet AMIRI quick link">AMIRI</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Burberry" aria-label="Sugargoo Spreadsheet Burberry quick link" title="Sugargoo Spreadsheet Burberry quick link">Burberry</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Gucci" aria-label="Sugargoo Spreadsheet Gucci quick link" title="Sugargoo Spreadsheet Gucci quick link">Gucci</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Prada" aria-label="Sugargoo Spreadsheet Prada quick link" title="Sugargoo Spreadsheet Prada quick link">Prada</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Moncler" aria-label="Sugargoo Spreadsheet Moncler quick link" title="Sugargoo Spreadsheet Moncler quick link">Moncler</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Stone+Island" aria-label="Sugargoo Spreadsheet Stone Island quick link" title="Sugargoo Spreadsheet Stone Island quick link">Stone Island</a>
-<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo&brand=Off-White" aria-label="Sugargoo Spreadsheet Off-White quick link" title="Sugargoo Spreadsheet Off-White quick link">Off-White</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Nike" aria-label="Sugargoo Spreadsheet Nike quick link" title="Sugargoo Spreadsheet Nike quick link">Nike</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=adidas" aria-label="Sugargoo Spreadsheet adidas quick link" title="Sugargoo Spreadsheet adidas quick link">adidas</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Jordan" aria-label="Sugargoo Spreadsheet Jordan quick link" title="Sugargoo Spreadsheet Jordan quick link">Jordan</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=AMIRI" aria-label="Sugargoo Spreadsheet AMIRI quick link" title="Sugargoo Spreadsheet AMIRI quick link">AMIRI</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Burberry" aria-label="Sugargoo Spreadsheet Burberry quick link" title="Sugargoo Spreadsheet Burberry quick link">Burberry</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Gucci" aria-label="Sugargoo Spreadsheet Gucci quick link" title="Sugargoo Spreadsheet Gucci quick link">Gucci</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Prada" aria-label="Sugargoo Spreadsheet Prada quick link" title="Sugargoo Spreadsheet Prada quick link">Prada</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Moncler" aria-label="Sugargoo Spreadsheet Moncler quick link" title="Sugargoo Spreadsheet Moncler quick link">Moncler</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Stone+Island" aria-label="Sugargoo Spreadsheet Stone Island quick link" title="Sugargoo Spreadsheet Stone Island quick link">Stone Island</a>
+<a class="brand-button" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=Sugargoo&amp;brand=Off-White" aria-label="Sugargoo Spreadsheet Off-White quick link" title="Sugargoo Spreadsheet Off-White quick link">Off-White</a>
 </div>
 </section>
 
@@ -59,13 +62,6 @@ title: "Sugargoo Spreadsheet 2026: Quick Links, Categories, Brands & All Finds"
 <div class="step"><span>02</span><p>Review current item records, QC photos, sizes, prices, availability, shipping fees, and policies on the destination page.</p></div>
 <div class="step"><span>03</span><p>Complete any sign-in, purchase, payment, shipping, or support request only on the linked third-party destination.</p></div>
 </div>
-</section>
-
-<section id="contact-updates" class="link-section updates-section" aria-labelledby="updates-title">
-<p class="section-label">LINK UPDATES &amp; REPORTS</p>
-<h2 id="updates-title">Sugargoo Spreadsheet link updates</h2>
-<p class="section-intro">For a future verified contact or update channel, use this section as the single replacement point. Until a real channel is confirmed, report broken links through the destination platform rather than using an unverified address.</p>
-<span class="pending-note">Use the destination page for the latest product and link status</span>
 </section>
 
 <section class="disclosure">

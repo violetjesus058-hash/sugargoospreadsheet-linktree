@@ -15,6 +15,10 @@ This website is not operated by Sugargoo or Linktree. The word "Linktree" is onl
 
 This Policy covers this quick-link hub only. External destinations have separate privacy practices.
 
+### How this quick-link hub works
+
+Unlike a catalog or store, this site primarily presents a short list of routes: All Finds, a category, a brand, or the separate budget site. We may measure which route was selected, but we do not copy the destination's full product database into this hub and do not receive the destination's account, payment, warehouse, or order records.
+
 ## 2. Information collected
 
 You can browse without creating an account. If you voluntarily contact us or use a form that becomes available, we may receive your name, email address, message, or other information you choose to provide.

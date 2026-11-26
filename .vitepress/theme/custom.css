@@ -15,7 +15,7 @@
 
 .link-directory-page { max-width: 680px; margin: 0 auto; padding: 36px 24px 48px; color: var(--ink); text-align: center; }
 .profile-hero { padding: 10px 0 30px; }
-.profile-avatar { display: block; width: 114px; height: 114px; margin: 0 auto 16px; border: 1px solid var(--line); border-radius: 50%; padding: 5px; background: var(--vp-c-bg); object-fit: contain; box-shadow: 0 8px 24px rgba(0, 0, 0, .12); }
+.profile-avatar { display: block; width: 171px; height: 171px; margin: 0 auto 16px; border: 1px solid var(--line); border-radius: 50%; padding: 5px; background: var(--vp-c-bg); object-fit: contain; box-shadow: 0 8px 24px rgba(0, 0, 0, .12); }
 .profile-handle { margin: 0 0 12px; color: var(--muted); font-size: .78rem; font-weight: 750; letter-spacing: .06em; }
 .profile-hero h1 { max-width: 620px; margin: 0 auto 16px; color: var(--ink); font-size: clamp(2.3rem, 6vw, 4.4rem); font-weight: 850; letter-spacing: -.075em; line-height: .98; text-align: center; }
 .profile-hero h1 span { display: block; color: var(--accent); }
@@ -66,7 +66,7 @@
 @media (max-width: 640px) {
   .link-directory-page { padding: 28px 18px 36px; }
   .profile-hero { padding-top: 4px; }
-  .profile-avatar { width: 99px; height: 99px; }
+  .profile-avatar { width: 149px; height: 149px; }
   .profile-hero h1 { font-size: clamp(2rem, 9vw, 3.1rem); }
   .category-grid { grid-template-columns: 1fr; }
   .link-section { padding: 30px 0; }
